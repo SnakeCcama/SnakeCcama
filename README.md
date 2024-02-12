@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SnakeCcama
-- 👀 I’m interested in ...Machine learning
-- 🌱 I’m currently learning ...Machines. No,seriously, Python.
+- 👀 I’m interested in ...game development
+- 🌱 I’m currently learning ...C++, Godot, Game design, Level design
 - 💞️ I’m looking to collaborate on ...Anything I can't handle by meself.
 - 📫 How to reach me ...
 
